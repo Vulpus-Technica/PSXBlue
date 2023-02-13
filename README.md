@@ -1,7 +1,7 @@
 # PSXBlue
 PSX Blueretro Board
 
-Here are the Gerber files needed for my Blueretro compatible board.  This board is designed to only go in original form factor Playstion consoles. I have an idea for adding it to the smaller PSOne, but it will require a custom flex-PCB.
+Here are the Gerber files needed for my Blueretro compatible board.  This board is designed to only go in original form factor Playstion consoles. I have an idea for adding it to the smaller PSOne, but it will require a custom flex-PCB. This board was made with "HW1" in mind.  There are only basic features present.
 
 Known Issues:
 - There is an apparent issue with the PU-18 model of the PSX (I don't have one for testing), but it will press buttons randomly.  This is an issue with the Blueretro code and not the board.
